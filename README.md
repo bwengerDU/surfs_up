@@ -12,7 +12,9 @@ December
 ![alt text](https://github.com/bwengerDU/surfs_up/blob/main/Deliverable%202.png)
 
 -June's average temperate is roughly 4 degrees warmer than December, coming in at 74.94 degrees and 71.04 degrees respectively. 
+
 -December has far more variation in its temperatures. Although the average is only 4 degrees apart, the weather in December can range from 56-83 degrees compared to the 64-85 degree range in June. 
+
 -The standard deviation in December is also nearly .5 higher in December. 
 
 
